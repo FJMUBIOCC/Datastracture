@@ -13,3 +13,5 @@ dependencies:
     - moviepy
     - lifelines
     - seaborn
+    - julia
+  
